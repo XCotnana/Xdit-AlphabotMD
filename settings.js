@@ -23,14 +23,14 @@ global.prefix = "."
 global.language = "ind"
 global.ownerNumberr = "6285641476033"
 global.ownerbot = ['6285641476033@s.whatsapp.net','6285641476033@s.whatsapp.net'] // .owner
-global.ownername = "© Raditya"
+global.ownername = "X"
 global.botname = "Xdit-MD"
 global.thumb = "thumbnail_1.jpg"
 global.thumbnail ="thumbnail_2_1.jpg"
 global.fakethumb ="thumbnail_1.jpg"
 global.donasi ="donasi.jpg"
 global.captionpay ="Scan untuk melakukan pembayaran"
-global.fake = "「  Xdit-MD  」\nCreated By Raditya-¡X"
+global.fake = "「  Xdit-MD  」\nCreated By X"
 global.alphaVersion = [2, 2143, 3] //WhatsApp web version
 
 /* Available type menu
